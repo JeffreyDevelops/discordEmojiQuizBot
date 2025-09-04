@@ -55,8 +55,4 @@ module.exports = {emojiquiz};
 
 <h2>That's it!</h2>
 <p>Hope you have fun with this package and enjoy playing emojiquizzes. 🤳🥳😎
-<p>If you still need support! 👇</p>
-  <a href="https://discord.gg/ybvMTNHcnq">
-<img src="https://camo.githubusercontent.com/e59dea1d9d0632f966c15a10dd746907a3ff03d27b0f074b37d450776290f2ac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436861742d436c69636b253230686572652d3732383964393f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264">
-</img>
 </a>
